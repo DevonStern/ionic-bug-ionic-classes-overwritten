@@ -1,0 +1,7 @@
+{
+  "name": "IonicClassesBug",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
